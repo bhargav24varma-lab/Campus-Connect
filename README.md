@@ -52,38 +52,40 @@ Campus Connect brings all essential campus utilities into one smart platform:
 
 ## 🖼️ Screenshots
 (Screenshots of the app will be added here)
+## 🖼️ Screenshots
+
 ### Home Page
-![Home](Home Page.png)
+![Home](Home%20Page.png)
 
 ### AI Chatbot
-![AI Chatbot](AI Chatbot.png)
+![AI Chatbot](AI%20Chatbot.png)
 
 ### Add Exam Dates
-![Add Exam](Add Exam Dates.png)
+![Add Exam](Add%20Exam%20Dates.png)
 
 ### Add Materials
-![Add Materials](Add Materials.png)
+![Add Materials](Add%20Materials.png)
 
 ### Add New Club
-![Club](Add new club.png)
+![Club](Add%20new%20club.png)
 
 ### Anti-Ragging Cell
-![Anti Ragging](Anti-Ragging cell.png)
+![Anti Ragging](Anti-Ragging%20cell.png)
 
 ### Assignments Section
-![Assignments](Assignments Sections.png)
+![Assignments](Assignments%20Sections.png)
 
 ### Barter System Section
-![Barter](Barter System Section.png)
+![Barter](Barter%20System%20Section.png)
 
 ### Offer Skill (Barter)
-![Offer Skill](Barter System [ Offer Skill].png)
+![Offer Skill](Barter%20System%20%5B%20Offer%20Skill%5D.png)
 
 ### Campus & Hostel Complaints
-![Complaints](Campus and Hostel Complaints.png)
+![Complaints](Campus%20and%20Hostel%20Complaints.png)
 
 ### Club Directory
-![Club Directory](Club Directory section.png)
+![Club Directory](Club%20Directory%20section.png)
 
 ---
 
